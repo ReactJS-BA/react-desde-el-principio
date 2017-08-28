@@ -72,3 +72,5 @@ Para comodidad, se pueden agregar los scripts para construir la aplicación y pa
     "test": "echo \"Error: no test specified\" && exit 1"
   },
 ```
+
+## 02 Componentes
